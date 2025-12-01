@@ -1,0 +1,13 @@
+Proposed Clean Project Structure:
+sales_forecasting/
+├── data/
+│   └── sample_sales_data.csv
+├── src/
+│   ├── __init__.py
+│   ├── main.py
+│   ├── data_processing.py
+│   ├── modeling.py
+│   └── visualization.py
+├── app.py
+├── run.py
+└── requirements.txt
